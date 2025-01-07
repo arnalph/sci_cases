@@ -69,6 +69,11 @@ if case_data["cases"]:
     print(judgement_details)
 ```
 
+## TODO
+- Add function to download pdf of judgement
+- Add function to check if judgement has html version and parse the same
+- Add function to check cases and acts referred to (if available)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
